@@ -56,6 +56,6 @@ https://colab.research.google.com/drive/1py-d6fU1s_O-ldskP-n8W-KZ12CCI8Ym?usp=sh
       ii. How many dominant eigenvectors will you use for the LDA solution?
       iii. Plot the accuracy vs the number of non-faces images while fixing the number of face images.
       iv. Criticize the accuracy measure for large numbers of non-faces images in the training data.
-### Bonus.
+### Changing Test_Split ratio .
     a. Use different Training and Test splits. Change the number of instances per subject to be 7 and keep 3 instances per subject for testing. compare the results     you have with the ones you got earlier with 50% split.
     
